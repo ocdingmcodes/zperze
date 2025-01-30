@@ -18,13 +18,13 @@
         <b>Android FastPair</b>
     </string>
     <string name="apple_device_popup">
-        <b>Apple Device Popup</b>
+        <b>Device Popup</b>
     </string>
     <string name="apple_action_modal">
         <b>Apple Action Modal</b>
     </string>
     <string name="ios_17_crash">
-        <b>iOS 17 Crash</b>
+        <b>Crash</b>
     </string>
     <string name="ios_title">
         <b>iOS</b>
